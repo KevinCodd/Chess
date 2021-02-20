@@ -1,2 +1,2 @@
 # Chess
-Making chess from scratch
+Abandoned this architecture for a simpler one (main branch)
