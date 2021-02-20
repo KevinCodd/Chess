@@ -14,10 +14,10 @@ private int [] coors;
     	this.coors = new int [2];
     	coors[0]=i; //vertical coordinate to 0
     	coors[1]=j; //horizontal coordinate to 1
-        setWidth(BoardGUI.TILE_SIZE);
-        setHeight(BoardGUI.TILE_SIZE);
+        setWidth(BoardControllerMain.TILE_SIZE);
+        setHeight(BoardControllerMain.TILE_SIZE);
         //relocate method takes horizontal axis first, then vertical
-        relocate(j * BoardGUI.TILE_SIZE, i * BoardGUI.TILE_SIZE);
+        relocate(j * BoardControllerMain.TILE_SIZE, i * BoardControllerMain.TILE_SIZE);
 
         setFill(color ? Color.WHITE : Color.BLACK);
     }
