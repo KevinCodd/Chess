@@ -1,2 +1,2 @@
-# Chess-2.0
+# Chess
 Making chess from scratch
