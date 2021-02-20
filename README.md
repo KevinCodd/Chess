@@ -1,2 +1,2 @@
 # Chess
-Making chess from scratch
+Making chess from scratch (WIP)
